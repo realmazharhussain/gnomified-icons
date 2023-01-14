@@ -16,6 +16,9 @@ cd gnomish-icons-main
 sh ./install.sh
 ```
 
+## Uninstall
+To uninstall, just remove the `~/.local/share/icons/Gnomish` directory.
+
 # Special Thanks
 Developers and contributors of
 - [Skeuowaita](https://github.com/Frostbitten-jello/Skeuowaita)
