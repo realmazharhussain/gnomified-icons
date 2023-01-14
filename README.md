@@ -5,7 +5,7 @@ A collection of GNOME-style icons for apps whose icons look out of place on GNOM
 **Note**: I am not an artist. Every icon in this collection is made/designed by someone else.
 I just collect GNOME-style icons into a unified icon theme. See [Credits.md](Credits.md).
 
-# Installation
+## Installation
 First, make sure `wget`, `tar`, and `gz` are installed on your systtem. Then run the following
 commands on the terminal
 
@@ -16,9 +16,9 @@ cd gnomish-icons-main
 sh ./install.sh
 ```
 
-## Uninstall
+### Uninstall
 To uninstall, just remove the `~/.local/share/icons/Gnomish` directory.
 
-# Special Thanks
+## Special Thanks
 Developers and contributors of
 - [Skeuowaita](https://github.com/Frostbitten-jello/Skeuowaita)
