@@ -1,0 +1,12 @@
+[Icon Theme]
+Name=Gnomish
+Comment=Gnomish app icons
+Inherits=Adwaita,hicolor
+Directories=apps
+
+[apps]
+Context=Applications
+Size=128
+MinSize=8
+MaxSize=512
+Type=Scalable
