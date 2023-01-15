@@ -12,4 +12,4 @@
 
 <!-- License Links -->
 
-[CC0-1.0]: licenses/Skeuowaita/CC0-1.0.md
+[CC0-1.0]: licenses/CC0-1.0.md
