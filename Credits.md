@@ -1,4 +1,4 @@
-| App                      | Icon(s)                                                                                | Taken From                                                    | License                                   |
+| App Name                 | Icon(s)                                                                                | Taken From                                                    | License                                   |
 | ------------------------ |:--------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:-----------------------------------------:|
 | HP Device Manager        | <img title="" src="regular/hp_logo.svg" alt="" width="48">                             | [Skeuowaita](https://github.com/Frostbitten-jello/Skeuowaita) | [CC0-1.0](licenses/Skeuowaita/CC0-1.0.md) |
 | XMind                    | <img title="" src="regular/net.xmind.XMind.svg" alt="" width="48">                     | [Skeuowaita](https://github.com/Frostbitten-jello/Skeuowaita) | [CC0-1.0](licenses/Skeuowaita/CC0-1.0.md) |
