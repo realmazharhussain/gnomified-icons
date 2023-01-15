@@ -1,4 +1,6 @@
-| App Name          | Icon(s)                                                                                                                  | Taken From     | License     |
+## Apps
+
+| Name              | Preview                                                                                                                  | Taken From     | License     |
 | ----------------- |:------------------------------------------------------------------------------------------------------------------------:|:--------------:|:-----------:|
 | Cheese            | <img title="" src="regular/org.gnome.Cheese.svg" alt="" width="48">                                                      | [Skeuowaita][] | [CC0-1.0][] |
 | Document Scanner  | <img title="" src="regular/org.gnome.SimpleScan.svg" alt="" width="48">                                                  | [Skeuowaita][] | [CC0-1.0][] |
