@@ -35,8 +35,7 @@ do_install() {
   OLD_PWD=$PWD
   cd "${source_dir}"
 
-  cp -vfr icons -T "${target_theme_dir}"/apps
-  cp -vf index.theme -t "${target_theme_dir}"
+  cp -vfr index.theme regular symbolic -t "${target_theme_dir}"
 
   cd "${OLD_PWD}"
 }
