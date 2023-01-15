@@ -1,9 +1,9 @@
 # gnomish-icons
 
-A collection of GNOME-style icons for apps whose icons look out of place on GNOME.
+Alternate versions of icons that stick out like a sore thumb on GNOME.
 
 **Note**: I am not an artist. Every icon in this collection is made/designed by someone else.
-I just collect GNOME-style icons into a unified icon theme. See [Credits.md](Credits.md).
+I just collect them into a unified icon theme. See [Credits.md](Credits.md).
 
 ## Installation
 First, make sure `wget`, `tar`, and `gz` are installed on your systtem. Then run the following
