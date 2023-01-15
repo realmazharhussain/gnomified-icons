@@ -2,11 +2,18 @@
 Name=Gnomish
 Comment=Gnomish app icons
 Inherits=Adwaita,hicolor
-Directories=regular
+Directories=regular,symbolic
 
 [regular]
 Context=Applications
 Size=128
 MinSize=8
+MaxSize=512
+Type=Scalable
+
+[symbolic]
+Context=Applications
+Size=16
+MinSize=16
 MaxSize=512
 Type=Scalable
