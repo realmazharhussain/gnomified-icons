@@ -21,4 +21,5 @@ To uninstall, just remove the `~/.local/share/icons/Gnomish` directory.
 
 ## Special Thanks
 Developers and contributors of
+- [MoreWaita](https://github.com/somepaulo/MoreWaita)
 - [Skeuowaita](https://github.com/Frostbitten-jello/Skeuowaita)
