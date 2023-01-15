@@ -1,6 +1,6 @@
 # gnomish-icons
 
-Alternate versions of icons that stick out like a sore thumb on GNOME.
+Alternate versions of icons that looked ugly on GNOME.
 
 **Note**: I am not an artist. Every icon in this collection is made/designed by someone else.
 I just collect them into a unified icon theme. See [Credits.md](Credits.md).
